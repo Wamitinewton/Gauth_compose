@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866879164495",
+    "project_id": "gauth-fe110",
+    "storage_bucket": "gauth-fe110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866879164495:android:9e8262ad89e6b429155a3a",
+        "android_client_info": {
+          "package_name": "com.example.gauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uXD11KWjGYOgBd142KMa9Am2CVnrxvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
